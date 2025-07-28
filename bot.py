@@ -161,5 +161,5 @@ async def on_ready():
     print(f"Ping channel is {ping_channel_id}")
     check_sales.start()
 
-bot.run("MTM5OTEwOTgxNDY3MTM3NjU1NA.GsiJJK.YoxoRb3euVf7eUUcScOFcKxKZnENblDxPey9QI")
+bot.run("")
 
